@@ -18,7 +18,7 @@ from os import path
 PLUGINS = """
 ack.vim https://github.com/mileszs/ack.vim
 ag.vim https://github.com/rking/ag.vim
-bufexplorer https://github.com/corntrace/bufexplorer
+bufexplorer https://github.com/jlanzarotta/bufexplorer
 ctrlp.vim https://github.com/ctrlpvim/ctrlp.vim
 mayansmoke https://github.com/vim-scripts/mayansmoke
 nerdtree https://github.com/scrooloose/nerdtree
